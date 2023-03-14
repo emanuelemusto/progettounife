@@ -54,7 +54,7 @@ se non l'hai già fatto aggiungi il permesso per usare internet all'app (da aggi
     <application ...
 ```
 
-### Step 4 
+### Step 4:
 
 Crea le tue chiamate crud nelle classi, ecco degli esempi di get e post: 
 
@@ -126,6 +126,6 @@ fun post() {
 
 ### [Altri Esempi di chiamate su Kotlin](https://square.github.io/okhttp/recipes/)
 
-### Step 5
+### Step 5:
 
 ### [Chiamate per interogare e riempire Elasticsearch](https://github.com/LisaHJung/Part-1-Intro-to-Elasticsearch-and-Kibana)
